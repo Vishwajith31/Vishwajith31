@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishwajith Somarampet</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Machine Learning Developer</h3>
 
-- 🌱 I’m currently learning **MERN full stack**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 📫 How to reach me **vishwasomarampet029@gmail.com**
 
